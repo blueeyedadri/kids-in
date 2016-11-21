@@ -1,0 +1,104 @@
+ <!-- Listings -->
+ <div class="container-fluid">
+   <div class="dircatrows row">
+       <div class="col-lg-3 col-sm-3 col-md-3 hidden-xs">
+            <img src="images/KIN%20Tiles.png" class="img-responsive" alt="Placeholder image">
+            <img src="images/Honest%20Co%20Tile.jpg" class="img-responsive" alt="Placeholder image"><img src="images/KIN%20Tiles.png" class="img-responsive" alt="Placeholder image"><img src="images/Wayfair%20Tile.png" class="img-responsive" alt="Placeholder image">
+       </div>
+     <div class="col-sm-9 col-lg-9 col-md-9 col-xs-12">
+     <center><h1>Baby - Post-natal Fitness</h1></center>
+       <div class="premium">
+             <div class="listingheader"></div>
+             <div class="col-md-4 col-lg-4 col-lg-4"><center><a href="http://bit.ly/2fND3ML"><img src="images/FitMom%20Logo%20380%20x%20110.jpg" alt="facebook" width="379" height="110" class="img-responsive vendorlogo"/></a></center></div>
+                 <div class="col-md-8 col-lg-8 col-sm-8"><center><a href="fitmom.html"><h1>Fit Mom</h1></a></center></div>
+       </div>
+                 <div class="socialicons">
+                 <div class="col-md-2 col-lg-2 col-lg-2"><a href="http://bit.ly/2fPLgl6"><img src="images/Facebook.png" alt="facebook" width="75" height="75" class="img-responsive facebook"/></a></div>
+                 <div class="col-md-2 col-lg-2 col-sm-2"><a href="http://bit.ly/2eQKB0l"><img src="images/Twitter.png" alt="facebook" width="75" height="75" class="img-responsive facebook"/></a></div>
+                 <div class="col-lg-2 col-md-2 col-sm-2"><a href="http://bit.ly/2fPiOSt"><img src="images/Instagram.png" alt="facebook" width="75" height="75" class="img-responsive facebook"/></a></div> 
+                 <div class="col-lg-2 col-md-2 col-sm-2"><a href="http://bit.ly/2fPgIlP"><img src="images/Pinterest.png" alt="facebook" width="75" height="75" class="img-responsive facebook"/></a></div>  
+                 </div> 
+                 <div class="row">
+                 <div class="col-sm-4 col-xs-12 icons">
+                <a href="http://bit.ly/2fND3ML"><img src="images/www-icon.jpg" alt="facebook" width="75" height="75" class="img-responsive facebook"/><center>Website</center></a>
+                 <a href="emailto:andrea@fitmomfitness.com"><img src="images/email-icon.jpg" alt="facebook" width="75" height="75" class="img-responsive facebook"/><center>Email</center></a>
+                 <a href="http://bit.ly/2fPnEz5"><img src="images/map-icon.jpg" alt="google map" width="75" height="75" class="img-responsive facebook"><center>Map</center></a>
+                 </div>           
+                </div>
+                <div class="col-sm-8 col-xs-12"> <p class="basic">FITMOM provides prenatal, postnatal and beyond fitness, yoga, personal training and birth services. FITMOM is designed to meet the needs of moms to be, new moms and veteran moms interested in health and wellness in the childbearing years. FITMOM was "conceived" by Andrea Page in April of 2000. FITMOM is a pioneer in the evolution of prenatal and postnatal wellness. In doing so FITMOM has helped over 10,000 women strive for the best possible outcomes through optimal wellness during the childbearing years.<br><br>
+
+The FITMOM program offers services across Canada, with Andrea teaching here in Niagara, and has made their highly recognized DVD series and e-books available across North America and now breaks international borders. </p>
+       </div>
+       </div>
+     <div class="col-sm-9 col-lg-9 col-md-9 col-xs-12 odd">
+       <div class="featured withlogo">
+             <div class="listingheader"></div>
+             <div class="col-md-4 col-lg-4 col-lg-4"><center><img src="images/Young_Boys_In_Basketball_Team.jpg" alt="facebook" width="180" height="120" class="img-responsive vendorlogo"/></center></div>
+                 <div class="col-md-8 col-lg-8 col-sm-8"><center><h1>West Niagara Dance Company</h1></center></div>
+       </div>
+                 <div class="socialicons">
+                 <div class="col-md-2 col-lg-2 col-lg-2"><a href="https://www.facebook.com/kidsinniagara.ca/"><img src="images/Facebook.png" alt="facebook" width="75" height="75" class="img-responsive facebook"/></a></div>
+                 <div class="col-md-2 col-lg-2 col-sm-2"><a href="https://www.twitter.com/kidsinniagara.ca/"><img src="images/Twitter.png" alt="facebook" width="75" height="75" class="img-responsive facebook"/></a></div>
+                 <div class="col-lg-2 col-md-2 col-sm-2"><a href="https://www.instagram.com/kidsinniagara.ca/"><img src="images/Instagram.png" alt="facebook" width="75" height="75" class="img-responsive facebook"/></a></div> 
+                 <div class="col-lg-2 col-md-2 col-sm-2"><a href="https://www.instagram.com/kidsinniagara.ca/"><img src="images/Pinterest.png" alt="facebook" width="75" height="75" class="img-responsive facebook"/></a></div>  
+                 </div> 
+                 <div class="row">
+                 <div class="col-sm-4 col-xs-12 icons">
+                <a href="https://www.instagram.com/kidsinniagara.ca/"><img src="images/www-icon.jpg" alt="facebook" width="75" height="75" class="img-responsive facebook"/><center>Website</center></a>
+                 <a href="https://www.instagram.com/kidsinniagara.ca/"><img src="images/email-icon.jpg" alt="facebook" width="75" height="75" class="img-responsive facebook"/><center>Email</center></a>
+                 </div>           
+                </div>
+                <div class="col-sm-8 col-xs-12"> <p class="basic">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper porta. Mauris massa. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi.</p>
+       </div>
+        </div>  
+        <div class="col-sm-9 col-lg-9 col-md-9 col-xs-12">
+       <div class="featured">
+             <div class="listingheader"></div>
+             <div class="col-md-4 col-lg-4 col-lg-4"></div>
+                 <div class="col-md-8 col-md-offset-4 col-lg-8 col-sm-8"><center><h1>West Niagara Dance Company</h1></center></div>
+       </div>
+                 <div class="socialicons">
+                 <div class="col-md-2 col-md-offset-4 col-lg-2 col-lg-2"><a href="https://www.facebook.com/kidsinniagara.ca/"><img src="images/Facebook.png" alt="facebook" width="75" height="75" class="img-responsive facebook"/></a></div>
+                 <div class="col-md-2 col-lg-2 col-sm-2"><a href="https://www.twitter.com/kidsinniagara.ca/"><img src="images/Twitter.png" alt="facebook" width="75" height="75" class="img-responsive facebook"/></a></div>
+                 <div class="col-lg-2 col-md-2 col-sm-2"><a href="https://www.instagram.com/kidsinniagara.ca/"><img src="images/Instagram.png" alt="facebook" width="75" height="75" class="img-responsive facebook"/></a></div> 
+                 <div class="col-lg-2 col-md-2 col-sm-2"><a href="https://www.instagram.com/kidsinniagara.ca/"><img src="images/Pinterest.png" alt="facebook" width="75" height="75" class="img-responsive facebook"/></a></div>  
+                 </div> 
+                 <div class="row">
+                 <div class="col-sm-4 col-xs-12 icons">
+                <a href="https://www.instagram.com/kidsinniagara.ca/"><img src="images/www-icon.jpg" alt="facebook" width="75" height="75" class="img-responsive facebook"/><center>Website</center></a>
+                 <a href="https://www.instagram.com/kidsinniagara.ca/"><img src="images/email-icon.jpg" alt="facebook" width="75" height="75" class="img-responsive facebook"/><center>Email</center></a>
+                 </div>           
+                </div>
+                <div class="col-sm-8 col-xs-12"> <p class="basic">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper porta. Mauris massa. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi.</p>
+       </div>
+        <div class="col-sm-12 col-lg-12 col-md-12 col-xs-12 odd">
+          <div class="basic">
+                 <div class="col-md-8 col-lg-8 col-sm-8"><center><h1>West Niagara Dance Company</h1></center></div>
+                 <div class="col-md-4 col-lg-4 col-sm-4"><center><img src="images/phone-icon.jpg" alt="Cellphone" width="46" height="75"></center></div>
+                 </div>
+          </div>
+           <div class="col-sm-12 col-lg-12 col-md-12 col-xs-12">
+          <div class="basic">
+                 <div class="col-md-8 col-lg-8 col-sm-8"><center><h1>West Niagara Dance Company</h1></center></div>
+                 <div class="col-md-4 col-lg-4 col-sm-4"><center><img src="images/phone-icon.jpg" alt="Cellphone" width="46" height="75"></center>
+                 </div>
+           </div>
+          </div>
+          
+  </div>   
+  </div> 
+  </div>           
+   <!-- Bottom Ad Section -->
+  <div class="container-fluid footer-container">
+  <div class="">
+          <div class="row">
+        <div class="col-md-3 col-sm-3 col-xs-3 homewelcomeleft">
+         <a href="https://www.facebook.com/kidsinniagara.ca/"><img src="images/KIN%20Space%20Available%20Tile.png" alt="facebook" width="401" height="360" class="img-responsive facebook"/></a></div>
+        <div class="col-md-3 col-sm-3 col-xs-3 homewelcomeleft"> 
+        <a href="https://www.twitter.com/kidsinniagara.ca/"><img src="images/KIN%20Space%20Available%20Tile.png" alt="twitter" width="401" height="360" class="img-responsive twitter"/></a></div>
+        <div class="col-md-3 col-sm-3 col-xs-3 homewelcomeleft">
+          <a href="https://www.pinterest.com/kidsinniagara.ca/"><img src="images/KIN%20Space%20Available%20Tile.png" alt="pinterest" width="401" height="360" class="img-responsive pinterest"/></a></div>
+  <div class="col-md-3 col-sm-3 col-sm-3 col-xs-3 homewelcomeleft"> <a href="https://www.instagram.com/kidsinniagara.ca/"><img src="images/KIN%20Space%20Available%20Tile.png" alt="instagram" width="401" height="360" class="img-responsive instagram"/></a></div>
+  </div>
+  </div>
+  </div>
